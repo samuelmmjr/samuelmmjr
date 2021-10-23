@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Samuel Melo </h1>
-<h3 align = "center"> Desenvolvedor Full Stack Júnior </h3>
+<h3 align = "center"> Desenvolvedor Full Stack </h3>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
