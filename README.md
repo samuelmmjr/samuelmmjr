@@ -8,7 +8,6 @@
 - 🎓 &nbsp; Formado em Gestão da Tecnologia da Informação.
 - 💼 &nbsp; Em migração de carreira para desenvolvimento de software.
 - 🌱 &nbsp; Atualmente estou iniciando  meus estudos em ** AWS **.
-- ✍️ &nbsp; Enquanto isso, sou empreendedor no ramo de FastFood.
 - 📫 Como entrar em contato comigo: 
 - **samuelmmjunior@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samuelmesquita)
