@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e colocando em prática nos projetos.
 - 🎓 &nbsp; Formado em Gestão da Tecnologia da Informação.
 - 💼 &nbsp; Em migração de carreira para desenvolvimento de software.
-- 🌱 &nbsp; Atualmente estou aprendendo ** Arquitetura: SOLID e ORM **.
+- 🌱 &nbsp; Atualmente estou iniciando  meus estudos em ** AWS **.
 - ✍️ &nbsp; Enquanto isso, sou empreendedor no ramo de FastFood.
 - 📫 Como entrar em contato comigo: 
 - **samuelmmjunior@gmail.com**
