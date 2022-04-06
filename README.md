@@ -6,9 +6,8 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e colocando em prática nos projetos.
 - 🎓 &nbsp; Formado em Gestão da Tecnologia da Informação.
-- 💼 &nbsp; Em migração de carreira para desenvolvimento de software.
-- 🌱 &nbsp; Atualmente estou iniciando  meus estudos em ** AWS **.
-- 📫 Como entrar em contato comigo: 
+- 💼 &nbsp; Desenvolvedor de software FullSatck 
+- 🌱 &nbsp; Atualmente trabalho com Java.
 - **samuelmmjunior@gmail.com**
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samuelmesquita)
 
