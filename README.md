@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Samuel Melo</h1>
-<h3 align="center">QA Engineer | Quality Advocate | Explorador de Testes</h3>
+<h3 align="center">QA Engineer </h3>
 
 <img width="35%" align="right" alt="PIC" height="300px" src="https://cdn.dribbble.com/users/292223/screenshots/14059523/media/2a6f93948fef116ef69a06e04815aa03.gif" />
 
