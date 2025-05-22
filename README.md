@@ -12,7 +12,7 @@
 - 📊 &nbsp; Acompanhamento de métricas de qualidade e apoio no refinamento de critérios de aceite.
 - 🎓 &nbsp; Formado em Gestão da Tecnologia da Informação.
 - 📫 &nbsp; **samuelmmjunior@gmail.com**
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samuelmesquita)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/samuelmelojr/)
 
 ---
 
