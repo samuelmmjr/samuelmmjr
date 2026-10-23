@@ -2,179 +2,182 @@
 
 # 👋 Samuel Melo
 
-### Quality Engineer · Test Automation · Quality Strategy
+### QA Engineer · Test Automation · Quality Engineering
 
-**Transformando testes em decisões de qualidade.**
+**Turning risks into strategy, automation, and informed quality decisions.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Melo-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuelmelojr/)
-[![GitHub](https://img.shields.io/badge/GitHub-samuelmmjr-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/samuelmmjr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Melo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmelojr/)
+[![GitHub](https://img.shields.io/badge/GitHub-samuelmmjr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/samuelmmjr)
+[![Location](https://img.shields.io/badge/Recife-Brazil-555555?style=flat-square)](#-about-me)
+[![Remote](https://img.shields.io/badge/Open_to-Remote_Opportunities-2463EB?style=flat-square)](#lets-talk-about-quality)
 
 </div>
 
 ---
 
-## 🧭 Sobre mim
+## 🧭 About Me
 
-Sou **Quality Engineer com 4+ anos de experiência**, atuando em ambientes complexos de seguros, energia, e-commerce e logística.
+I'm a **QA Engineer with 4+ years of experience in software quality**, with a background in software development. I have worked on projects across **insurance, energy, healthcare, e-commerce, and logistics**, building QA practices from scratch, designing automation frameworks, and mentoring QA engineers.
 
-Meu foco não é simplesmente **testar mais**.
+I bridge **quality strategy and test automation engineering**: from risk analysis and test design to framework architecture, E2E and API testing, CI/CD integration, and performance validation.
 
-É entender riscos, estruturar processos e construir automações que realmente aumentem a confiança nas entregas.
+My goal is not simply to **automate more tests**, but to build sustainable solutions that increase confidence in releases and support risk-informed decisions.
 
-> **Automação profissional não começa escrevendo código.
-> Começa entendendo qualidade, riscos e estratégia.**
+> **Professional test automation doesn't start with writing code.**  
+> **It starts with understanding quality, risks, and strategy.**
 
-Tenho background em desenvolvimento de software e hoje atuo principalmente com **estratégia de testes, automação E2E, APIs, CI/CD, performance e arquitetura de testes**.
+I currently work with **Playwright, TypeScript, Oracle Fusion ERP, and Jenkins**.
+
+📍 Recife, Brazil (UTC-3) · The full career timeline is on [LinkedIn](https://www.linkedin.com/in/samuelmelojr/).
 
 ---
 
-## 📊 Alguns resultados
+## 📊 Selected Results
+
+Results from different projects, shown without client identification.
+
+**Production incidents after QA process improvements (relative index, before = 100)**
 
 ```text
-Redução de incidentes em produção
+Before  ████████████████████  100
+After   ███                    15
 
-Antes   ████████████████████  100%
-Depois  ███                     15%
-
-              ↓ ~85%
+                 ↓ ~85%
 ```
 
-```text
-Cobertura automatizada
+**Automated scenario coverage reached in an E2E framework**
 
+```text
 ███████████████░░░░░  ~75%
 ```
 
-| Impacto                                         | Resultado |
-| :---------------------------------------------- | --------: |
-| 🐞 Defeitos encontrados antes da produção       |  **140+** |
-| 📋 Histórias de usuário validadas em um projeto |    **84** |
-| 🧪 Cenários gerenciados em múltiplas releases   |  **290+** |
-| 👥 QAs desenvolvidos / mentorados               |    **6+** |
-| ⚡ Usuários simultâneos em teste de carga        | **2.000** |
-| 🚨 Redução de incidentes em sistema crítico     |  **~85%** |
+| Focus | Result |
+| :--- | ---: |
+| 🎭 E2E scenarios personally automated | **100+** |
+| 🚀 Automation initiatives delivered | **4** |
+| ✅ Critical ERP scenarios delivered in the final prioritized scope | **28** |
+| 📋 User stories validated | **84** |
+| 🐞 Defects identified | **140+** |
+| 💡 Improvement opportunities identified | **60+** |
+| ⚡ Concurrent virtual users in a load test | **2,000** |
+| 📉 Error rate recorded in that load-test scenario | **0%** |
+
+> **Metrics context:** The 28 scenarios represent the **entire final prioritized scope** of an ERP automation phase, after seven scenarios were removed through a risk-based prioritization decision. The **0% error rate** applies only to the specific load-test scenario executed; it does not imply that the system is free of performance issues. The incident reduction and coverage figures are approximate.
 
 ---
 
-## 🔬 O que faço na prática
+## 🔬 How I Approach Quality
 
 ```text
-Requisitos
-    │
-    ▼
-Análise de risco
-    │
-    ▼
-Estratégia de testes
-    │
-    ├──── API / Integrações
-    ├──── E2E Automation
-    ├──── Performance
-    └──── Data Validation
-             │
-             ▼
-            CI/CD
-             │
-             ▼
-       Feedback rápido
-             │
-             ▼
-      Decisão de qualidade
+Requirements and business rules
+              │
+              ▼
+        Risk analysis
+              │
+              ▼
+        Test strategy
+              │
+      ┌───────┼────────┬────────────┐
+      ▼       ▼        ▼            ▼
+     API     E2E   Performance     Data
+      │       │        │            │
+      └───────┴────────┴────────────┘
+              │
+              ▼
+       Automation + CI/CD
+              │
+              ▼
+       Evidence and metrics
+              │
+              ▼
+        Quality decisions
 ```
 
-Trabalho principalmente com:
+Core areas:
 
-* 🎯 **Test Strategy & Risk-Based Testing**
-* 🎭 **E2E Automation**
-* 🔌 **API & Integration Testing**
-* ⚡ **Performance Testing**
-* 🔄 **CI/CD & Quality Gates**
-* 📊 **Quality Metrics & Governance**
-* 🧠 **Arquitetura de testes**
-* 👥 **Mentoria e liderança técnica**
+- 🎯 **Test Strategy & Risk-Based Testing**
+- 🎭 **E2E Automation & Framework Architecture**
+- 🔌 **API & Integration Testing**
+- ⚡ **Performance & Load Testing**
+- 🔄 **CI/CD & Regression Testing**
+- 📊 **Quality Metrics, Traceability & Governance**
+- 👥 **Technical Mentoring & QA Process Implementation**
+- 🤖 **Generative AI Applied to QA**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Automation**
+**Test Automation**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square\&logo=cypress\&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square\&logo=apache\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
 
-**Engineering**
+**Languages & Engineering**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=database\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+
+**API & Test Management**
+
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray-Test_Management-6554C0?style=flat-square)
+![Qase](https://img.shields.io/badge/Qase-Test_Management-4E5EE4?style=flat-square)
 
 **CI/CD & Infrastructure**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## 🧪 Playwright QA Lab
 
-Estou construindo o **Playwright QA Lab**, um laboratório gratuito para QAs que querem evoluir da execução de testes para uma visão mais profissional de automação.
+I'm building **Playwright QA Lab** as a space to explore and share practical approaches to software quality and test automation.
 
 ```text
 Playwright QA Lab
 │
 ├── 🎭 E2E Automation
 ├── 🔌 API Testing
-├── 🏗️ Test Architecture
+├── 🏗️ Test Architecture & POM
 ├── 🔄 CI/CD
-├── 🎯 Quality Strategy
-└── 🤖 AI for QA
+├── 🎯 Risk-Based Testing
+└── 🤖 AI Applied to QA
 ```
 
-A proposta é trabalhar com **projetos reais, exemplos práticos e boas práticas utilizadas no mercado**.
+The goal is to explore **hands-on examples, reusable architecture, and maintainable test automation**.
 
-**Objetivo:** construir automações confiáveis, organizadas e sustentáveis — não apenas fazer testes passarem.
-
-🚧 **Projetos open source em desenvolvimento.**
+🚧 **Work in progress.**
 
 ---
 
-## 🤖 QA + Inteligência Artificial
+## 🤖 QA + Artificial Intelligence
 
-Tenho explorado aplicações práticas de IA no processo de qualidade, principalmente em:
+I explore practical applications of generative AI in quality engineering:
 
-`Risk Analysis` · `Test Generation` · `Regression Prioritization` · `Visual Testing` · `Automation Development`
+`Test Design` · `Risk Analysis` · `Automation Development` · `Regression Prioritization`
 
-O princípio é simples:
-
-> **Usar IA onde ela aumenta nossa capacidade de encontrar riscos — não apenas porque é possível usar IA.**
-
----
-
-## 🎓 Formação
-
-**Pós-graduação — Engenharia de Qualidade e Teste de Software**
-PUC Minas · Em andamento
-
-**FAST — Engenharia de Qualidade**
-CESAR School
-
-**Gestão da Tecnologia da Informação**
-Faculdade dos Guararapes
+> **AI should improve test analysis, consistency, and productivity, without replacing critical risk assessment.**
 
 ---
 
 <div align="center">
 
-### Vamos falar sobre qualidade?
+### Let's Talk About Quality
 
-Quality Engineering · Playwright · Test Automation · Quality Strategy · AI for QA
+**QA Automation Engineer · Quality Engineer · SDET**
 
-[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samuelmelojr/)
+📍 Recife, Brazil · UTC-3 · Open to remote opportunities in Brazil and internationally
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmelojr/)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelmmjunior@gmail.com)
 
 </div>
