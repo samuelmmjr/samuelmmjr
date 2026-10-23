@@ -17,52 +17,37 @@
 
 ## 🧭 About Me
 
-I'm a **QA Engineer with 4+ years of experience in software quality**, with a background in software development. I have worked on projects across **insurance, energy, healthcare, e-commerce, and logistics**, building QA practices from scratch, designing automation frameworks, and mentoring QA engineers.
+I'm a **QA Engineer with 4+ years of experience in software quality** and a background in software development. I've worked across **insurance, energy, healthcare, e-commerce, and logistics**, establishing QA practices, building automation frameworks, and mentoring other QA engineers.
 
-I bridge **quality strategy and test automation engineering**: from risk analysis and test design to framework architecture, E2E and API testing, CI/CD integration, and performance validation.
+I connect **quality strategy with test automation engineering** — from business rules, risk analysis, and test design to E2E and API automation, CI/CD integration, and performance testing.
 
-My goal is not simply to **automate more tests**, but to build sustainable solutions that increase confidence in releases and support risk-informed decisions.
+My goal isn't simply to **automate more tests**. It's to build maintainable solutions that improve feedback, strengthen release confidence, and support risk-informed decisions.
 
 > **Professional test automation doesn't start with writing code.**  
 > **It starts with understanding quality, risks, and strategy.**
 
-I currently work with **Playwright, TypeScript, Oracle Fusion ERP, and Jenkins**.
+My current technical focus includes **Playwright, TypeScript, enterprise test automation, and Jenkins CI/CD**.
 
-📍 Recife, Brazil (UTC-3) · The full career timeline is on [LinkedIn](https://www.linkedin.com/in/samuelmelojr/).
+📍 Recife, Brazil (UTC−3) · Find my professional experience and career timeline on [LinkedIn](https://www.linkedin.com/in/samuelmelojr/).
 
 ---
 
-## 📊 Selected Results
+## 📊 Selected Contributions
 
-Results from different projects, shown without client identification.
+Across different teams and industries, I've contributed to software quality through practical engineering, risk-based testing, and sustainable automation practices. The examples below describe **types of work**, without disclosing client-specific delivery metrics or internal project details.
 
-**Production incidents after QA process improvements (relative index, before = 100)**
+| Area | Contribution |
+| :--- | :--- |
+| 🎭 **E2E Automation** | Designed and evolved reusable test automation frameworks with Playwright and TypeScript |
+| 🏗️ **Test Architecture** | Applied Page Object Model, fixtures, reusable components, and test data management practices |
+| 🔌 **API & Integration Testing** | Automated REST API scenarios, including contract, schema, and authentication validation |
+| 🔄 **CI/CD** | Integrated automated test suites into Jenkins pipelines to support regression and validation cycles |
+| 🎯 **Quality Strategy** | Established QA processes, testing workflows, and risk-based validation practices |
+| ⚡ **Performance Testing** | Planned and executed load-testing scenarios with Apache JMeter and analyzed test results |
+| 📊 **Quality Management** | Improved test traceability, defect management, quality reporting, and cross-team collaboration |
+| 👥 **Technical Mentoring** | Supported QA engineers with test design, automation practices, and professional development |
 
-```text
-Before  ████████████████████  100
-After   ███                    15
-
-                 ↓ ~85%
-```
-
-**Automated scenario coverage reached in an E2E framework**
-
-```text
-███████████████░░░░░  ~75%
-```
-
-| Focus | Result |
-| :--- | ---: |
-| 🎭 E2E scenarios personally automated | **100+** |
-| 🚀 Automation initiatives delivered | **4** |
-| ✅ Critical ERP scenarios delivered in the final prioritized scope | **28** |
-| 📋 User stories validated | **84** |
-| 🐞 Defects identified | **140+** |
-| 💡 Improvement opportunities identified | **60+** |
-| ⚡ Concurrent virtual users in a load test | **2,000** |
-| 📉 Error rate recorded in that load-test scenario | **0%** |
-
-> **Metrics context:** The 28 scenarios represent the **entire final prioritized scope** of an ERP automation phase, after seven scenarios were removed through a risk-based prioritization decision. The **0% error rate** applies only to the specific load-test scenario executed; it does not imply that the system is free of performance issues. The incident reduction and coverage figures are approximate.
+**My focus:** useful test coverage, reliable automation, and actionable feedback for engineering and product teams.
 
 ---
 
@@ -93,7 +78,7 @@ Requirements and business rules
         Quality decisions
 ```
 
-Core areas:
+**Core areas:**
 
 - 🎯 **Test Strategy & Risk-Based Testing**
 - 🎭 **E2E Automation & Framework Architecture**
@@ -108,7 +93,7 @@ Core areas:
 
 ## 🛠️ Tech Stack
 
-**Test Automation**
+**Test Automation & Performance**
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
@@ -140,7 +125,7 @@ Core areas:
 
 ## 🧪 Playwright QA Lab
 
-I'm building **Playwright QA Lab** as a space to explore and share practical approaches to software quality and test automation.
+I'm developing **Playwright QA Lab**, a personal learning and experimentation space for sharing practical approaches to software quality and test automation.
 
 ```text
 Playwright QA Lab
@@ -153,9 +138,9 @@ Playwright QA Lab
 └── 🤖 AI Applied to QA
 ```
 
-The goal is to explore **hands-on examples, reusable architecture, and maintainable test automation**.
+The aim is to explore **hands-on examples, reusable architecture, and maintainable test automation**, using independent examples and publicly shareable code.
 
-🚧 **Work in progress.**
+🚧 **Work in progress — projects and examples are being developed.**
 
 ---
 
@@ -165,7 +150,7 @@ I explore practical applications of generative AI in quality engineering:
 
 `Test Design` · `Risk Analysis` · `Automation Development` · `Regression Prioritization`
 
-> **AI should improve test analysis, consistency, and productivity, without replacing critical risk assessment.**
+> **AI should improve test analysis, consistency, and productivity — without replacing critical thinking or risk assessment.**
 
 ---
 
@@ -175,7 +160,7 @@ I explore practical applications of generative AI in quality engineering:
 
 **QA Automation Engineer · Quality Engineer · SDET**
 
-📍 Recife, Brazil · UTC-3 · Open to remote opportunities in Brazil and internationally
+📍 Recife, Brazil · UTC−3 · Open to remote opportunities in Brazil and internationally
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelmelojr/)
 [![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelmmjunior@gmail.com)
